@@ -16,7 +16,7 @@ def get_max_consecutive_element(arr):
 arr = [1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
 print(get_max_consecutive_element(arr))
 
-## time complexity O(n)
+## Time complexity O(n)
 ## Space complexity, we have only the tho variables which requires constant amount of time O(1)
 
     
