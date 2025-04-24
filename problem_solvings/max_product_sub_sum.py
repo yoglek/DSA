@@ -17,8 +17,6 @@ def max_sum_subarray(arr):
 print(max_sum_subarray(arr))
 
 ## time complexity linear so O(N)
-## Space Complexity O(1) bcs its constant time 
-
-
+## Space Complexity O(1) bcs its constant time
 
 

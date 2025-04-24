@@ -14,7 +14,7 @@ def bubble_sort(l):
 
 print(bubble_sort(l))
 
-# Time complexity Worst Case O(N)2 best case when list is alreayd sorted then O(N)
+### Time complexity Worst Case O(N)2 best case when list is alreayd sorted then O(N)
 ### Space compaxity is constant as we update in the same list O(1)
 
 
